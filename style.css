@@ -1,0 +1,25 @@
+button{
+    background-color: green;
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 10px;
+    color: white;
+    text-transform: capitalize;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 1px 2px 3px rgb(23, 18, 18, 0.5);
+    border: none;
+   
+}
+button:focus{
+    color: red;
+
+}
+button:hover{
+    background-color: gray;
+    color: red;
+
+}
+alert{
+    background-color: red;
+}
